@@ -2,30 +2,8 @@
  * Package: StandardCodeLibrary.Core
  * */
 //引进常用的头文件并使用std名字空间;
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <iomanip>
-#include <utility>
-#include <vector>
-#include <list>
-#include <string>
-#include <stack>
-#include <queue>
-#include <deque>
-#include <set>
-#include <map>
-#include <algorithm>
-#include <functional>
-#include <numeric>
-#include <bitset>
-#include <complex>
-#include <cstdio>
-#include <cstring>
-#include <cmath>
-#include <cstdlib>
-#include <ctime>
-#include <climits>
+#include <bits/stdc++.h>
+
 using namespace std;
 
 //用于减少代码量的宏;
